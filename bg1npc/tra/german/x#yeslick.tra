@@ -118,9 +118,9 @@
 @117 = ~Kinda, entschuldige bitte, Opa. Ich habe nicht erwartet, dass es so... tiefgründig ist. Kennst du denn keine Zwergen-Abenteuergeschichten? Du weißt schon, die spannenden mit dem Kampf gegen Drachen? Oder die tragischen, in denen ein Zwerg sein Leben aufgibt, um das Königreich zu retten? Oder die romantischen, die, äh, ähm, vergiss es. Streichen Sie das, ich kann mir nicht einmal *eine* Zwergen-Romanze vorstellen.~
 @118 = ~Hoi... vielleicht sind wir als Rasse nicht schnell in der Liebe, aber wenn wir es tun, dann richtig, ehrlich und wahrhaftig. Es gibt ein Metterfor, das dazu gehört, das mit einem Schmiedefeuer zu tun hat, oder so ähnlich. Aber Poesie ist nicht mein Ding.~
 @119 = ~*kichert* Ja, das kannst du laut sagen, Opa. Ich hab deine Gedichte schon mal gehört. Oh! Tut mir leid, ich wollte dich nicht beleidigen.~
-~By the way, you ever get married, gramps?~
+@119 = ~By the way, you ever get married, gramps?~
 @121 = ~Nun, ich nicht, nay. Aber wenn man Priester ist, ist man mit seinem Gott verheiratet - hör auf zu grinsen, Clangeddin ist nicht amüsiert - und da war keine Zeit zum Heiraten.~
-@122 = ~I *war* auf ein paar Hochzeiten, obwohl... Ich erinnere mich, dass mein junger Cousin Durgin mit Alewyn verheiratet war, der Tochter von Morgar, dem Bergbaumeister. Ihre Mütter waren sehr stolz. Es gab ein Fest und einen Tanz für den ganzen Clan... Es war ein freudiger Tag. Das waren... bei Clangeddin, das waren nicht mehr als drei Tage, bevor das Wasser kam...~
+@122 = ~Ich *war* auf ein paar Hochzeiten, obwohl... Ich erinnere mich, dass mein junger Cousin Durgin mit Alewyn verheiratet war, der Tochter von Morgar, dem Bergbaumeister. Ihre Mütter waren sehr stolz. Es gab ein Fest und einen Tanz für den ganzen Clan... Es war ein freudiger Tag. Das waren... bei Clangeddin, das waren nicht mehr als drei Tage, bevor das Wasser kam...~
 @123 = ~Wow! Klingt nach Spaß! Ich würde gerne mal eine Zwergenhochzeit sehen!~
 @124 = ~Ja, ich wette, es würde euch gefallen, aber ihr müsstet euch mit einem anderen Zwerg anfreunden, denn ich werde es nicht sein.~
 @125 = ~*pustet die Backen auf* Buh! Das ist ätzend!~
@@ -204,7 +204,7 @@
 @203 = ~Du singst immer von anderen, Junge. Wolltest du noch nie der Held deiner eigenen Ballade sein?~
 @204 = ~Hmmm, The Ballad of Brave Sir Garrick... ~ Manchmal schon, aber wenn ich mich umbringen lasse, wer soll sie dann schreiben? Ich behalte die Lieder lieber für mich und überlasse das Drachentöten denen, die es wollen... ~
 @205 = ~Hmpf. Dann schlage ich Euch einen Handel vor. Ihr geht nur ein einziges Mal da raus, vertraut auf den Felsen der Schlacht und stellt Euch dem Feind, ohne an Verstecken oder Weglaufen zu denken, und ich bin da und decke Eure Linke. Und wenn es sein muss, baue ich dich danach auch wieder zusammen. Wie wär's damit?~
-@206 = ~I-~
+@206 = ~Ich-~
 @207 = ~Gut! Dann lasst uns loslegen! Los, kommt schon! Holt Euer Schwert raus!~
 @208 = ~Oh, *das* sollte man sich ansehen.~
 @209 = ~Was? Was? Aber da ist nichts - ich, äh, hatte einen plötzlichen Geistesblitz, wo ist mein Stift? Ich muss komponieren...~
@@ -245,7 +245,7 @@
 @244 = ~Rache, so scheint es mir. Du jagst diesen Tazok, um ihn zu töten, ja, um den Tod deines Vaters zu rächen. Ich selbst sehne mich danach, Rieltar wiederzusehen und ihn spüren zu lassen, was er mir angetan hat.~
 @245 = ~Es tut mir leid, Yeslick, aber ich sehe keine große Ähnlichkeit in unseren Bestrebungen. Ihr wollt nichts weiter als verletzten Stolz und ein geschändetes Grab rächen. Das ist nichts im Vergleich zu dem, was ich weiß.~
 @246 = ~Ich kann verstehen, warum du so denkst, Kivan, also werde ich dich nicht anschnauzen. Aber ein Unrecht ist ein Unrecht, und manches Unrecht verlangt einen Blutzoll. Das ist eine Wahrheit, so alt wie die Zeit. Dass Rieltar und seine Schergen meine Vorfahren und meine Sippe so entweiht haben ... dass ich es war, der sie an ihn verraten hat ... wie kann ein Zwerg ihnen im Jenseits gegenübertreten, ohne dass sein Blut an meinen Händen klebt, um ihnen zu beweisen, dass ich mein Bestes getan habe, um alles so gut wie möglich wiederherzustellen? Wie kann ich die...~
-@247 = ~The shame of it. Wenn du nur stärker gewesen wärst... wenn nur dein Körper dem Schmerz und der Verletzung gewachsen gewesen wäre, wenn du nur eine Minute länger hättest durchhalten können... wäre es vielleicht nicht so gekommen. Aber so, wie es jetzt ist, kannst du nur kämpfen, bis ihr vergossenes Blut die Tränen der Unschuldigen übertrifft, und hoffen, dass es der Gerechtigkeit dient.~
+@247 = ~Die Schande ist groß. Wenn du nur stärker gewesen wärst... wenn nur dein Körper dem Schmerz und der Verletzung gewachsen gewesen wäre, wenn du nur eine Minute länger hättest durchhalten können... wäre es vielleicht nicht so gekommen. Aber so, wie es jetzt ist, kannst du nur kämpfen, bis ihr vergossenes Blut die Tränen der Unschuldigen übertrifft, und hoffen, dass es der Gerechtigkeit dient.~
 @248 = ~Aye... Ihr kennt diese Dinge gut genug. Ich nehme also Euer Verständnis, wenn auch nicht Eure Verwandtschaft, was, Waldläufer? Gute Jagd.~
 @249 = ~Möge dein Gott deine Gebete erhören.~
 @250 = ~Du sprichst heiß von Rache, Kivan. Das ist richtig so. Ich frage mich, ob du vielleicht einer der Anhänger von Hoar, dem Schicksalsbringer, bist...~
@@ -351,11 +351,11 @@
 @350 = ~Wir werden sicher verlieren.~
 @351 = ~Würdest du mal kurz deine Schwarzmalerei lassen, wenn es dir recht ist, Xan? Wir haben's mit einem großen Übel zu tun und...~
 @352 = ~-wir werden sicher verlieren?~
-@353 = ~WE'LL WIN, 'cause we've got right in our corner, aye? Das Böse kann nicht gewinnen gegen die Treuen und Wahren...~
+@353 = ~WIR WERDEN GEWINNEN, denn wir haben den richtigen Mann in unserer Ecke, ja? Das Böse kann nicht gewinnen gegen die Treuen und Wahren...~
 @354 = ~Das kann natürlich nur bedeuten, dass ein Kampf zwischen dem Bösen endlos weitergeht, bis ein zuvorkommender Champion, betrunken von Moral und Ehrgefühl, auftritt und sie beide fertig macht. Folly, Yeslick.~
 @355 = ~Der dumme Elf! Es gibt kleinere und größere Übel...~
 @356 = ~Und du sagst, wir kämpfen gegen ein größeres? Wir sind *sicher* zu verlieren!~
-@357 = ~Oh, ferryin' out loud! Das war's, ich gebe auf.~
+@357 = ~Oh, lautes Fähren! Das war's, ich gebe auf.~
 @358 = ~Eine absolut vernünftige Vorgehensweise angesichts der Chancen.~
 @359 = ~Nein, das ist nicht, was ich ... ~ Ah, Clangeddin, gib mir Kraft!~
 @360 = ~Eh? Was waren das für Worte, die Ihr mir entgegengeschleudert habt, Magier?~
@@ -364,7 +364,7 @@
 @363 = ~*seufz* Nun gut. Ich habe nur über die Wirkung von Licht auf blaues Venenblut nachgedacht. Es färbt sich rot, genau wie die Arterienflüssigkeit.~
 @364 = ~Aye... ? Ja, ich habe schon oft die letzte Ölung der Gefallenen auf dem Schlachtfeld gesehen, aber blaues Blut habe ich noch nie gesehen. Ich hab' mich damals nicht gewundert, warum... Also, worauf wolltest du hinaus?~
 @365 = ~Nun, ich habe die Vermutung gehört, dass nicht das Licht, sondern die Luft die Umwandlung bewirkt. Die Schwierigkeit bei der Verifizierung besteht jedoch darin, dass es unmöglich ist, Farbveränderungen - oder überhaupt irgendeine Veränderung - in der Dunkelheit zu beobachten.~
-@366 = ~I had ta ask. Dein verrücktes Hirn redet *immer* von Leichen und so...~
+@366 = ~Ich musste fragen. Dein verrücktes Hirn redet *immer* von Leichen und so...~
 @367 = ~Und wenn man versucht, die Luft statt des Lichts durch Wasser zu ersetzen, verflüchtigt sich das Blut so schnell, dass so oder so keine Beobachtung möglich ist. Wenn ich nur einen Weg finden könnte, um...~
 @368 = ~Palmöl.~
 @369 = ~Verzeihung?~
@@ -372,7 +372,7 @@
 @371 = ~Mein lieber Zwerg, das ist ... das ist genial! Mein Name ist gefallen! Ich werde im Nekromantenbuch "Gezeichnet und gevierteilt" veröffentlicht! Äh... könntest du mir vielleicht etwas Palmöl leihen? Oh, und eine Ader?~
 @372 = ~Er... Ich habe kein Palmöl, und'... Hoi! Du kannst deine hungrigen Augen auch von meinen Armen nehmen, du verdrehter Fiesling!~
 @373 = ~<CARNAME>!~
-@374 = ~Go on, fight!~
+@374 = ~Los, kämpfe!~
 @375 = ~Hey, stop this nonsense!~
 @376 = ~Verlasst die Gruppe, alle beide! Klärt das unter euch! ~
 @377 = ~Das wird dir eine Lehre sein, du geldgieriger Flegel! Entschuldigt euch bei Clangeddin! Aye... Ich nenne alle Zwerge meine Brüder, aber ihn werde ich nicht vermissen. Komm schon, <CHARNAME>. Lass die Schakale ihn haben.~
